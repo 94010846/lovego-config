@@ -3,7 +3,7 @@ gate:
     startWith: /static
     contain: .
   oauth:
-    prefix: /api
+    prefix: /jwt
 
   jwt:
     secret: Xe*g@1jda
